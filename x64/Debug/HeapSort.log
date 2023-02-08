@@ -1,0 +1,7 @@
+﻿  HeapSort.cpp
+C:\Users\jakub\OneDrive\Pulpit\HeapSort\HeapSort.cpp(57,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jakub\OneDrive\Pulpit\HeapSort\HeapSort.cpp(64,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jakub\OneDrive\Pulpit\HeapSort\HeapSort.cpp(65,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jakub\OneDrive\Pulpit\HeapSort\HeapSort.cpp(69,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jakub\OneDrive\Pulpit\HeapSort\HeapSort.cpp(70,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  HeapSort.vcxproj -> C:\Users\jakub\OneDrive\Pulpit\HeapSort\x64\Debug\HeapSort.exe
